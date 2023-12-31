@@ -1,4 +1,4 @@
-# Projeto de Login em Python com PostgreSQL e Qt Designer
+# Projeto Login em Python com PostgreSQL e Qt Designer
 
 ## Visão Geral
 Este projeto é uma aplicação de login desenvolvida em Python que utiliza o banco de dados PostgreSQL para armazenar informações de usuários. A interface gráfica foi projetada utilizando o Qt Designer 5.15, proporcionando uma experiência interativa e visualmente agradável.
@@ -32,3 +32,7 @@ Este projeto é uma aplicação de login desenvolvida em Python que utiliza o ba
 ## Notas Importantes
 - Certifique-se de seguir as boas práticas de segurança ao lidar com senhas e informações sensíveis.
 - Mantenha a documentação atualizada para facilitar o entendimento e a colaboração.
+
+<img src="https://i.ibb.co/0ZCb1cy/login.jpg" alt="login" border="0">
+
+<img src="https://i.ibb.co/9c88VWV/register.jpg" alt="register" border="0">
